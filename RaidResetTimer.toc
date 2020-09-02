@@ -1,0 +1,7 @@
+## Title: Raid Reset Timers -|cFFFF0000 1.0|r
+## Author: Qk-Arugal
+## Notes: World of Warcraft Classic Addon to extend raid info with information about raids without a current lockout.
+## Version: 1.0
+## Interface: 11304
+
+RaidResetTimer.lua
